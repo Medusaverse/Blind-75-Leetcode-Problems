@@ -127,6 +127,6 @@
 ---
 
 # [Grind 75 questions](https://www.techinterviewhandbook.org/grind75)
-I am attaching here a tool link and a much updated version of the list by the author of Blind 75 himself where you can keep tab of the questions done, left and time utilise to make your interview coding perfection the ever perfect experience.
+I'm sharing a helpful tool link and an updated list by the author of Blind 75, which you can use to track the coding questions you've completed, those remaining, and the time spent, to make your interview coding journey the ever perfect experience.
 
-[Start now!](https://www.techinterviewhandbook.org/grind75)
+### [Start now!](https://www.techinterviewhandbook.org/grind75)
